@@ -40,7 +40,7 @@ This repository contains practical assignments and projects related to AIMI (Art
 
 ## Author
 
-Suruti Dhote
+Shruti Dhote
 
 ## License
 
